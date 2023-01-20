@@ -1,0 +1,29 @@
+body{
+      background-image: url(img/lovepik-dark-background-image_400109825.jpg);
+
+}
+.mywatch{
+      top:35%;
+      left: 35%;
+      position: fixed;
+      background-color: rgb(197, 206, 172);
+      padding:50px; 
+      border-radius: 10px; 
+      box-shadow: rgba(154, 22, 22, 0.1)0px,10px,50px; 
+      border: 3px dotted wheat; 
+      width: 400px;
+      height: 100px;
+      text-align: center;
+      
+}
+span{
+      font-size:50px;
+}
+span.date{
+      font-size:50px;
+      color: darkred;
+}
+hr{
+      padding:5px;
+      background-color: darkslategrey;
+}
