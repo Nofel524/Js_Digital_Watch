@@ -10,7 +10,7 @@ body{
       padding:50px; 
       border-radius: 10px; 
       box-shadow: rgba(154, 22, 22, 0.1)0px,10px,50px; 
-      border: 3px dotted wheat; 
+      border: 6px dotted rgb(28, 1, 1); 
       width: 400px;
       height: 100px;
       text-align: center;
